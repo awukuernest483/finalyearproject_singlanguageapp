@@ -1,7 +1,7 @@
-# Signalator
+# SignLang
 
 An Flutter project by Ramadhan Sanyoto S.W..
 
-## What is Signalator?
+## What is SignLang?
 
-Signalator is an application that makes it easy for people with disabilities to communicate with other people. This application has various features such as being able to detect photos and images of sign language, translating text into voice, translating voice into text, and various other features. Signalator application made by Ramadhan Sanyoto SW, assistant candidate for Lab B401 Multimedia Computing, Computer Engineering at ITS.
+Welcome to our Sign Language Gesture Detection App! This application leverages the power of machine learning to detect and interpret sign language gestures, bridging the communication gap between individuals who use sign language and those who may not be familiar with it.
