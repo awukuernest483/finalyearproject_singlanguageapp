@@ -1,6 +1,6 @@
 # SignLang
 
-An Flutter project by Ramadhan Sanyoto S.W..
+An Flutter project by Ernest Junior Awuku and Azanzire Augustine.
 
 ## What is SignLang?
 
